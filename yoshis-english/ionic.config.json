@@ -1,7 +1,0 @@
-{
-  "name": "Yoshi's English",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
